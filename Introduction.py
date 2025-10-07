@@ -1,0 +1,6 @@
+print("welcome to DanishLearner")
+print("In this application you are going to learn Danish")
+print("Whats your name")
+name = input()
+print("hello " + name)
+print("lets start learning")
