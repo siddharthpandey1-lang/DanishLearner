@@ -1,0 +1,8 @@
+print("easy level again")
+print("good luck")
+print("mad = food")
+print("skole = school")
+print("bog = book")
+print("vand = water")
+print("Kærlighed = love")
+print("You're doing great see you in next level")
